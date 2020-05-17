@@ -1,0 +1,30 @@
+{
+  "ads": {
+    "login": "ADSSYS",
+    "password": "",
+    "data_source": "\\\\srv-a10\\y$\\fabius\\opdata\\dict.add",
+    "host": "192.168.16.244",
+    "lan_port": 6262
+  },
+  "save_by_date": true,
+  "save_by_type": true,
+  "logs": "..\\tmp\\logs",
+  "track_server": {
+    "url": "http://192.168.16.233/reports/route.php?",
+    "track_types": ["plt", "json"],
+    "default_type": "",
+    "url_params": {
+      "id": 2,
+      "password": "",
+      "tzoffset": -3,
+      "usertime": null,
+      "lang": "ru_RU",
+      "condays": 0,
+      "minparktime": 120,
+      "all_filters": "true",
+      "obj": null,
+      "begin": null,
+      "end": null,
+      "return_type": ""}
+  }
+}
