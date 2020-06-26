@@ -4,6 +4,7 @@
 - СУБД: Advantage Database Sever 11
 - Сервер мониторинга передвижения транспорта: PCN 8 (Ritm)
 
+
 ## Запуск
 `python.exe main.py --date=20200517 --offset=0 --save=..\tracks --type=plt --tspsw=password --dbpsw=password --update=y`
 
